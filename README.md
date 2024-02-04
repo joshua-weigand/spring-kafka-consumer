@@ -1,2 +1,10 @@
-# spring-kafka-consumer
-Spring Boot Kafka Consumer
+# Spring Boot Kafka Consumer
+
+### Build
+`
+./gradlew clean build
+`
+### Run Locally
+`
+./gradlew bootRun
+`
